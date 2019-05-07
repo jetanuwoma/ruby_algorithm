@@ -8,3 +8,8 @@ visited node. Examples of where it can be used:
  - Topological sorting
  - To solve puzzle/maze which has one solution
  - Path Finding.
+
+The Developer understand and can implement high-performance data retrieval over complex, structured data sets such as:
+ - Search: Breadth / depth first search, A* search
+ - Sorting (heal sort, quick sort, merge sort, insertion sort)
+ - Hashing: Knowledge of what hash algorithms are and what problems they can address (MD5, collisions, linear probing
